@@ -1,4 +1,4 @@
-# 📊 Stock Data Analysis Dashboard  
+# 📊 Stock Data Analysis Dashboard On Adani Foundation
 **🔍 Powered by Power BI | 🏢 Adani Foundation**
 
 ---
