@@ -1,4 +1,4 @@
-![Adani Stock Analysis Dashboard](https://github.com/Hardik-ncr/Adani-Stock-Analysis-Dashboard/blob/main/Screenshot%202025-04-08%20010444.png?raw=true)
+![Adani Stock Analysis Dashboard](https://github.com/Hardik-ncr/Adani-Stock-Analysis-Dashboard/blob/main/Adani%20Dashboard.png)
 
 # 📊 Stock Data Analysis Dashboard On Adani Foundation
 **🔍 Powered by Power BI | 🏢 Adani Foundation**
